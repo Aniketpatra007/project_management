@@ -1,0 +1,28 @@
+{
+  "name": "project_management",
+  "version": "1.0.0",
+  "description": "a project management application for beginners",
+  "keywords": [
+    "backend",
+    "API",
+    "creation"
+  ],
+  "homepage": "https://github.com/Aniketpatra007/project_management#readme",
+  "bugs": {
+    "url": "https://github.com/Aniketpatra007/project_management/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aniketpatra007/project_management.git"
+  },
+  "license": "ISC",
+  "author": "Aniket Patra",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "devDependencies": {
+    "prettier": "3.9.10"
+  }
+}
